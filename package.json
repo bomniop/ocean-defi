@@ -1,0 +1,12 @@
+{
+  "name": "ocean-defi",
+  "version": "1.0.0",
+  "description": "Ocean-themed decentralized exchange",
+  "main": "src/index.js",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "bomniop",
+  "license": "MIT"
+}
